@@ -10,10 +10,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--WelcomeVC-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="swoosh" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="WelcomeVC" customModule="swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -90,10 +90,10 @@
             </objects>
             <point key="canvasLocation" x="117.39130434782609" y="123.09782608695653"/>
         </scene>
-        <!--View Controller-->
+        <!--SkillVC-->
         <scene sceneID="9PV-QU-q5X">
             <objects>
-                <viewController id="pTP-up-IJ3" sceneMemberID="viewController">
+                <viewController id="pTP-up-IJ3" customClass="SkillVC" customModule="swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="YYJ-qJ-zrh"/>
                         <viewControllerLayoutGuide type="bottom" id="wfE-rO-lF8"/>
@@ -213,10 +213,10 @@
             </objects>
             <point key="canvasLocation" x="828.98550724637687" y="120.65217391304348"/>
         </scene>
-        <!--View Controller-->
+        <!--LeagueVC-->
         <scene sceneID="SwR-Cg-Oka">
             <objects>
-                <viewController id="Rb4-2a-lQT" sceneMemberID="viewController">
+                <viewController id="Rb4-2a-lQT" customClass="LeagueVC" customModule="swoosh" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Kde-mx-ahr"/>
                         <viewControllerLayoutGuide type="bottom" id="Xv3-Jl-cMg"/>
